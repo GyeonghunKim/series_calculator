@@ -6,11 +6,9 @@
 #define POLY_INTEGER_HPP
 
 
-
 class integer {
 
 };
-
 
 
 #endif //POLY_INTEGER_HPP
